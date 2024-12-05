@@ -1,4 +1,6 @@
-This repository contains the code for the manuscript "Parametric S-Parameter Prediction Using Deep-Learning for Microwave Circuits".
+This repository contains the code for the manuscript "Parametric S-Parameter Prediction Using Deep Learning".
+URL : https://ieeexplore.ieee.org/document/10754126
+Citation : V. Bansal, L. Feng, V. d. la Rubia and P. Benner, “Parametric S-Parameter Prediction Using Deep Learning,”  2024 IEEE 33rd Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS), Toronto, ON, Canada, 2024, pp. 1-3, doi: 10.1109/EPEPS61853.2024.10754126.
 
 The dependencies required for running the code are mentioned in the "requirements.txt" file.
 
