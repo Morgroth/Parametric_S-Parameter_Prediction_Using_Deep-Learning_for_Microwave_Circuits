@@ -1,4 +1,4 @@
-This repository contains the code for the manuscript "Parametric S-Parameter Prediction Using Deep Learning".
+This repository contains the code (written by V. Bansal) for the manuscript "Parametric S-Parameter Prediction Using Deep Learning".
 
 URL : https://ieeexplore.ieee.org/document/10754126.
 
